@@ -3,4 +3,5 @@
 1. Confused Smiley- > Write a script that displays a confused smiley "(Ôo)'.
 2. Hellofile -> Display the content of /etc/passwd 
 3. twofiles -> Display the content of /etc/passwd and /etc/hosts
-4. Last lines of a file -> Display the last 10 lines of /etc/passwd 
+4. Last lines of a file -> Display the last 10 lines of /etc/passwd
+5. Third line -> Write a script that displays the third line of the file iacta.  
