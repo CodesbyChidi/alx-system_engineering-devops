@@ -1,4 +1,8 @@
-0-current_working_directory - This script prints the absolute path name of the current working directory.
+# 0x00-shell_basics tasks
+
+
+
+**0-current_working_directory - This script prints the absolute path name of the current working directory.
 
 1-listit - This script displays the contents list of your current directory.
 
@@ -34,6 +38,6 @@
 
 103-commas - Write a command that lists all the files and directories of the current directory, separated by commas (,).
 
-school.mgc - Create a magic file school.mgc that can be used with the command file to detect School data files. School data files always contain the string SCHOOL at offset 0.
+school.mgc - Create a magic file school.mgc that can be used with the command file to detect School data files. School data files always contain the string SCHOOL at offset 0.**
 
 
